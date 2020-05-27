@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05734717-912e-47b6-9a46-03b7d83fb5ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ace-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-lock-screen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-reset-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-sign-in-social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-sign-up-social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/box-shadow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breadcrumb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs-basic-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs-table-border.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs-table-sizing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs-table-styling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/change-loges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-c3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-chartjs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-float.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-knob.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-morris.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-nvd3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-peity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-radial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-rickshaw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart-sparkline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ck-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comming-soon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cropped.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard-analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard-crm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/draggable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-advance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-data-sources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-autofill.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-basic-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-buttons-html-5-data-export.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-col-reorder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-fixed-columns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-fixed-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-key-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-responsive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-row-reorder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-scroller.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-ext-select.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-plugin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-server-side.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dt-styling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editable-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-compose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-inbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-read.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event-clndr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event-full-calender.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fb-wall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file-upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-elements-add-on.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-elements-advance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-elements-component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-masking.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-picker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-select.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-validation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-wizard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-advance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-masonry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic-class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-appearance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-cell-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-cell-types.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-columns-only.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-data-operation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-integrations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-rows-cols.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-rows-only.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handson-utilities.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handsontable.full.min.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-flags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-font-awesome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-icofonts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-ion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-material-design.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-simple-line.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-themify.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-typicons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-weather.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-crop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoice-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoice-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/label-badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/light-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/location.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/long-press-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-vector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-bottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-compact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-header-fixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-horizontal-fixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-horizontal-icon-fixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-horizontal-icon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-horizontal-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar-light.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nestable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notify.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline-ui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overflow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/owl.video.play.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pcoded-horizontal.min.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preloader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/range-slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rating.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/realworld.388.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-result2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session-idle-timeout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session-timeout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_asc-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_asc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_asc_disabled-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_asc_disabled.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_both-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_both.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_desc-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_desc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_desc_disabled-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_desc_disabled.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/syntax-highlighter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline-social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tooltip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/treeview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget-chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget-data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget-statistic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wysiwyg-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-editable.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/new_dex.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="y" value="20" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new_dex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dex" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\new_dex" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05734717-912e-47b6-9a46-03b7d83fb5ad" name="Default Changelist" comment="" />
+      <created>1590598819050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590598819050</updated>
+      <workItem from="1590598820697" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="261000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
